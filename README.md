@@ -16,3 +16,19 @@
 
 - GoLang 
 
+### Package installation 
+
+`go get -u -v gopkg.in/zainanizar/goinsta.v2`
+
+### Example
+
+```go
+package main
+
+import (
+	"fmt"
+
+	"gopkg.in/zainanizar/goinsta.v2"
+)
+
+
